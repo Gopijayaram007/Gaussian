@@ -14,8 +14,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-```
-<img width="900" height="644" alt="{C0896AA1-689A-4736-B3C8-E8F4CF8F6DC4}" src="https://github.com/user-attachments/assets/8f5b22b6-2711-4fad-bc73-b5acad279211" />
+```<img width="912" height="640" alt="{A3DDDA78-DD3D-4FF7-9749-E831A718AB93}" src="https://github.com/user-attachments/assets/1cfb96c0-47db-4cfe-b374-6997b8cc4a77" />
+
 
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
